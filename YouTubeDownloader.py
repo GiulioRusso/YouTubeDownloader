@@ -11,7 +11,7 @@ else:
     print("\n >>> Downloading video: '{}' ".format(yt.title))
 
     # Download folder
-    download_folder = ""
+    download_folder = "" # your download folder path
 
     # Download video
     yd = yt.streams.get_highest_resolution()
