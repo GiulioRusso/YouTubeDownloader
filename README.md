@@ -1,4 +1,4 @@
-# YouTube Downloader script #
+# YouTube Downloader #
 
 This script download the required YouTube video at the highest resolution possible by specifying the corresponding link.
 
